@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @twister904
-- 👀 I’m interested in ... app development and web development
-- 🌱 I’m currently learning ...python and java script
+- 👀 I’m interested in full stack MERN Web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...saifimazhar8@gmail.com
 
