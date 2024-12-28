@@ -51,9 +51,9 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=twister904&theme=onedark)  
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/saifimazhar8/)  
-[![X](https://x.com/itsmazharsaifi)  
-[![Personal Website](https://twister904.github.io/newportfolio/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifimazhar8/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/itsmazharsaifi)  
+[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://twister904.github.io/newportfolio/)  
   
 
 ## 📝 Featured Projects & Repositories  
