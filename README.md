@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **GeekGrove**  
-- 🌱 I’m diving deep into **ReactJS**, **Redis**, **NestJS**, and **AWS**  
+- 🌱 I’m diving deep into **MERN Stack** 
 - 👯 Open to collaborating on **MERN stack** and **C++** projects  
 - 💬 Feel free to ask me about **MERN stack**, **JavaScript**, **C++**, **DSA**, and **Web Development**  
 - 📫 How to reach me: [saifimazhar66@gmail.com](mailto:saifimazhar66@gmail.com)  
