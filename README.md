@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 - 🌱 I’m diving deep into **MERN Stack** 
 - 👯 Open to collaborating on **MERN stack** and **C++** projects  
 - 💬 Feel free to ask me about **MERN stack**, **JavaScript**, **C++**, **DSA**, and **Web Development**  
-- 📫 How to reach me: [saifimazhar66@gmail.com](mailto:saifimazhar66@gmail.com)  
+- 📫 How to reach me: [saifimazhar8@gmail.com](mailto:saifimazhar8@gmail.com)  
 - ⚡ Fun fact: I believe in the process more than the result 🚀  
 
 ## 🛠️ Technologies & Tools  
