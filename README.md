@@ -47,15 +47,41 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=twister904&theme=onedark)  
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifimazhar8/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/itsmazharsaifi)  
-[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://twister904.github.io/newportfolio/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/saifimazhar8/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/itsmazharsaifi" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://twister904.github.io/newportfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
+  </a>
+</p>
+
   
 
-## 📝 Featured Projects & Repositories  
-- **[GeekGrove](https://github.com/twister904/geekgrove)** - A platform to connect tech enthusiasts and share knowledge  
-- **[HackTrack](https://github.com/twister904/hacktrack)** - A web app to track hackathon participation and achievements  
-- **[Ink Tales](https://github.com/twister904/INK_TALES)** - A dynamic book blog for exploring and managing book collections
+## 📝 **Featured Projects & Repositories**  
+<p align="left">
+  <a href="https://github.com/twister904/geekgrove" target="_blank">
+    <img src="https://img.shields.io/badge/GeekGrove-1DB954?style=for-the-badge&logo=github&logoColor=white" alt="GeekGrove">
+  </a>  
+  <br>
+  <span>A platform to connect tech enthusiasts and share knowledge.</span>  
+  <br><br>
+  <a href="https://github.com/twister904/hacktrack" target="_blank">
+    <img src="https://img.shields.io/badge/HackTrack-FF4500?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="HackTrack">
+  </a>  
+  <br>
+  <span>A web app to track hackathon participation and achievements.</span>  
+  <br><br>
+  <a href="https://github.com/twister904/INK_TALES" target="_blank">
+    <img src="https://img.shields.io/badge/Ink%20Tales-007ACC?style=for-the-badge&logo=open-book&logoColor=white" alt="Ink Tales">
+  </a>  
+  <br>
+  <span>A dynamic book blog for exploring and managing book collections.</span>  
+</p>
+
 
 ### :sparkles: My Followers
 <!--START_SECTION:top-followers-->
