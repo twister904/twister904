@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=twister904&theme=onedark)  
 
-## 🌐 Connect with Me  
+## 🌐 **Connect with Me**  
 <p align="left">
   <a href="https://www.linkedin.com/in/saifimazhar8/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -83,7 +83,7 @@
 </p>
 
 
-### :sparkles: My Followers
+### **:sparkles: My Followers**
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
@@ -92,14 +92,14 @@
         <img src="https://avatars.githubusercontent.com/u/150046924?v=4" width="100px;" alt="https://github.com/Md786Rizwan"/>
       </a>
       <br />
-      <a href="https://github.com/Md786Rizwan">Naibo Wang</a>
+      <a href="https://github.com/Md786Rizwan">Rizwan</a>
     </td>
     <td align="center">
       <a href="https://github.com/peter-kimanzi">
         <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="100px;" alt="https://github.com/peter-kimanzi"/>
       </a>
       <br />
-      <a href="https://github.com/peter-kimanzi">Simon Lecoq</a>
+      <a href="https://github.com/peter-kimanzi">Peter-kimanzi</a>
     </td>
   </tr>
 </table>
