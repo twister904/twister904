@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mazhar+Saifi+Aka+Twister904;+Welcome+to+My+Profile!;+CSE+Grad+with+4+years+of+programming+experience;Always+learning+new+things+;Software+Developer+Working+on+MERN+;+Ai+and+Ml+Enthusiast)](https://git.io/typing-svg)
 
+
 ## 🚀 About Me  
 - 🔭 I’m currently working on **GeekGrove**  
 - 🌱 I’m diving deep into **MERN Stack** 
@@ -40,7 +41,9 @@
 
 ## 📊 GitHub Stats  
 ![twister904's GitHub stats](https://github-readme-stats.vercel.app/api?username=twister904&show_icons=true&theme=radical)  
-![Most Used Languages](https://raw.githubusercontent.com/twister904/github-stats-transparent/output/generated/languages.svg)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twister904&layout=compact&theme=transparent)
+
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=twister904&theme=onedark)  
@@ -54,7 +57,9 @@
 ## 📝 Featured Projects & Repositories  
 - **[GeekGrove](https://github.com/twister904/geekgrove)** - A platform to connect tech enthusiasts and share knowledge  
 - **[HackTrack](https://github.com/twister904/hacktrack)** - A web app to track hackathon participation and achievements  
-- **[Ink Tales](https://github.com/twister904/INK_TALES)** - A dynamic book blog for exploring and managing book collections  
+- **[Ink Tales](https://github.com/twister904/INK_TALES)** - A dynamic book blog for exploring and managing book collections
+
+### :sparkles: My Followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
@@ -75,6 +80,7 @@
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
