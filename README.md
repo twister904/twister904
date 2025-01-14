@@ -55,7 +55,7 @@
     <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter">
   </a>
   <a href="https://twister904.github.io/newportfolio/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=9918&format=png&color=000000" alt="Personal Website">
+    <img src="https://img.icons8.com/?size=100&id=47745&format=png&color=000000" alt="Personal Website">
   </a>
 </p>
 
