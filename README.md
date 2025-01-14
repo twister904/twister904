@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://twister904.github.io/newportfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-social-media-2641106-2189855.png?f=webp&w=256" alt="Personal Website">
   </a>
 </p>
 
