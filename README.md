@@ -52,10 +52,10 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn">
   </a>
   <a href="https://x.com/itsmazharsaifi" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000" alt="Twitter">
+    <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="Twitter">
   </a>
   <a href="https://twister904.github.io/newportfolio/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=47745&format=png&color=000000" alt="Personal Website">
+    <img src="https://img.icons8.com/?size=100&id=114328&format=png&color=000000" alt="Personal Website">
   </a>
 </p>
 
