@@ -40,9 +40,7 @@
 
 
 ## 📊 GitHub Stats  
-![twister904's GitHub stats](https://github-readme-stats.vercel.app/api?username=twister904&show_icons=true&theme=radical)  
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twister904&layout=compact&theme=transparent)
+![twister904's GitHub stats](https://github-readme-stats.vercel.app/api?username=twister904&show_icons=true&theme=radical)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twister904&layout=compact&theme=transparent)
 
 
 ## 🏆 GitHub Trophies  
